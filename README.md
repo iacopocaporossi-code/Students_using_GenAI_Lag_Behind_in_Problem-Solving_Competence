@@ -6,6 +6,7 @@ This repository contains the simulation code for the paper:
 Students using GenAI lag behind in problem-solving competence: an agent-based study of classroom networks  I. Caporossi, C. Källner, K. Levanaitė, G. Lorenzini,
 M. Re Fiorentin, V. Socci, I. Stanzani, M. Baratto Complexity72h – Complexity Next Gen, Northeastern University London, 22–26 June 2026
 
+
 **Model overview**
 
 The model simulates a classroom of N = 30 students (agents) connected through a peer network. Over T = 60 time steps students face one physics exercise per step.
